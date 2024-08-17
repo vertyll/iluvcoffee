@@ -1,8 +1,8 @@
 {
   "name": "iluvcoffee",
   "version": "0.0.1",
-  "description": "",
-  "author": "",
+  "description": "CRUD operations with NestJS and TypeORM with PostgreSQL",
+  "author": "Mikołaj Gawron - gawrmiko@gmail.com",
   "private": true,
   "license": "UNLICENSED",
   "scripts": {
